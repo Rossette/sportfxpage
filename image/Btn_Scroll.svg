@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="68px" viewBox="0 0 68 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Btn_Scroll</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+        <filter x="-31.2%" y="-31.2%" width="162.5%" height="162.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Landing_Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DTC_Landing_Page" transform="translate(-686.000000, -602.000000)">
+            <g id="Hero" transform="translate(0.000000, 60.000000)">
+                <g id="Btn_Scroll" transform="translate(696.000000, 552.000000)">
+                    <g id="Oval" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-1"></use>
+                    </g>
+                    <polygon id="Chrevron" fill="#007AFF" transform="translate(24.000000, 26.108108) rotate(-270.000000) translate(-24.000000, -26.108108) " points="19 19.8918919 20.8918919 18 29 26.1081081 20.8918919 34.2162162 19 32.3243243 25.2162162 26.1081081"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

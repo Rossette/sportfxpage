@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="87px" height="62px" viewBox="0 0 87 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Ico_Cameras</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tile_Multicameras" transform="translate(-57.000000, -59.000000)">
+            <g id="Ico_Cameras" transform="translate(57.000000, 59.000000)">
+                <polygon id="Fill-1" fill="#FFFFFF" points="70.3087 17.0737 70.3087 34.8307 84.9997 38.3657 84.9997 13.5397"></polygon>
+                <path d="M68.3088,15.497 L68.3088,36.408 L86.9998,40.904 L86.9998,11.002 L68.3088,15.497 Z M72.3088,33.255 L72.3088,18.65 L83.0008,16.078 L83.0008,35.828 L72.3088,33.255 Z" id="Fill-2" fill="#007AFF"></path>
+                <polygon id="Fill-3" fill="#FFFFFF" points="29.827 45.269 70.309 45.269 70.309 2 29.827 2"></polygon>
+                <path d="M12.827,47.269 L72.309,47.269 L72.309,0 L12.827,0 L12.827,47.269 Z M16.827,43.268 L68.309,43.268 L68.309,4 L16.827,4 L16.827,43.268 Z" id="Fill-4" fill="#303030"></path>
+                <polygon id="Fill-5" fill="#FFFFFF" points="55.6177 29.4868 55.6177 47.2438 70.3087 50.7788 70.3087 25.9528"></polygon>
+                <path d="M57.6182,45.668 L68.3082,48.241 L68.3082,28.491 L57.6182,31.063 L57.6182,45.668 Z M72.3082,53.317 L53.6182,48.82 L53.6182,27.91 L72.3082,23.415 L72.3082,53.317 Z" id="Fill-6" fill="#007AFF"></path>
+                <polygon id="Fill-7" fill="#FFFFFF" points="17 60.001 57.082 60.001 57.082 16.732 17 16.732"></polygon>
+                <path d="M1.8189894e-12,62 L59.082,62 L59.082,14.731 L1.8189894e-12,14.731 L1.8189894e-12,62 Z M4,58.001 L55.083,58.001 L55.083,18.732 L4,18.732 L4,58.001 Z" id="Fill-8" fill="#303030"></path>
+                <polygon id="Fill-9" fill="#FFFFFF" points="29.827 60.001 57.082 60.001 57.082 16.732 29.827 16.732"></polygon>
+                <path d="M12.827,62 L59.082,62 L59.082,14.731 L12.827,14.731 L12.827,62 Z M16.827,58.001 L55.082,58.001 L55.082,18.732 L16.827,18.732 L16.827,58.001 Z" id="Fill-10" fill="#303030"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Ico_Timeshift</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tile_Timeshift" transform="translate(-69.000000, -59.000000)">
+            <g id="Ico_Timeshift" transform="translate(69.000000, 59.000000)">
+                <polygon id="Fill-1" fill="#FFFFFF" points="27.5369 34.5656 27.5369 17.6306 17.2549 26.1786"></polygon>
+                <path d="M20.4014,26.1641 L25.5374,30.3531 L25.5374,21.8941 L20.4014,26.1641 Z M29.5374,38.7771 L14.1084,26.1931 L29.5374,13.3671 L29.5374,38.7771 Z" id="Fill-2" fill="#007AFF"></path>
+                <polygon id="Fill-3" fill="#FFFFFF" points="41.045 34.5656 41.045 17.6306 30.763 26.1786"></polygon>
+                <path d="M33.9092,26.1641 L39.0452,30.3531 L39.0452,21.8941 L33.9092,26.1641 Z M43.0452,38.7771 L27.6162,26.1931 L43.0452,13.3671 L43.0452,38.7771 Z" id="Fill-4" fill="#007AFF"></path>
+                <path d="M0,62 L62,62 L62,0 L0,0 L0,62 Z M4,58 L58,58 L58,4 L4,4 L4,58 Z" id="Fill-5" fill="#303030"></path>
+                <polygon id="Fill-6" fill="#303030" points="2 48.559 59.753 48.559 59.753 44.559 2 44.559"></polygon>
+                <polygon id="Fill-7" fill="#303030" points="46.987 51.537 50.987 51.537 50.987 41.331 46.987 41.331"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

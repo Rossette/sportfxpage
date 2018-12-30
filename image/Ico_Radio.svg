@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="61px" viewBox="0 0 59 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>Ico_Radio</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M26.1,0.095 C13.287,0.095 0,10.366 0,23.035 L0,40.24 L58,40.24 L58,23.035 C58,10.366 44.713,0.095 31.9,0.095 L26.1,0.095 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tile_Radio" transform="translate(-71.000000, -60.000000)">
+            <g id="Ico_Radio" transform="translate(71.000000, 60.000000)">
+                <g id="Group-5" transform="translate(0.000000, 0.213000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-4"></g>
+                    <path d="M62.0003,40.2402 L54.0003,40.2402 L54.0003,23.0352 C54.0003,12.3682 42.1203,4.0942 31.8993,4.0942 L26.1003,4.0942 C15.8803,4.0942 4.0003,12.3682 4.0003,23.0352 L4.0003,40.2402 L-3.9997,40.2402 L-3.9997,23.0352 C-3.9997,7.6162 11.8923,-3.9058 26.1003,-3.9058 L31.8993,-3.9058 C46.1083,-3.9058 62.0003,7.6162 62.0003,23.0352 L62.0003,40.2402 Z" id="Fill-3" fill="#303030" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M4,56.308 L9.666,56.308 L9.666,36.775 L4,36.775 L4,56.308 Z M0,60.308 L13.666,60.308 L13.666,32.775 L0,32.775 L0,60.308 Z" id="Fill-1" fill="#007AFF"></path>
+                <path d="M48.352,56.308 L54.019,56.308 L54.019,36.775 L48.352,36.775 L48.352,56.308 Z M44.352,60.308 L58.019,60.308 L58.019,32.775 L44.352,32.775 L44.352,60.308 Z" id="Fill-2" fill="#007AFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
